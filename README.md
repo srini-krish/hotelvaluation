@@ -20,7 +20,7 @@ This repository contains a hotel valuation platform prototype designed for small
 ### Setup
 1. Clone this repository
    ```bash
-   git clone https://github.com/pragnakalpdev28/hotel_valuation_demo_app.git
+   git clone https://github.com/srini-krish/hotelvaluation.git
    cd hotel_valuation_demo_app
    ```
 
