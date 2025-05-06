@@ -21,7 +21,7 @@ This repository contains a hotel valuation platform prototype designed for small
 1. Clone this repository
    ```bash
    git clone https://github.com/srini-krish/hotelvaluation.git
-   cd hotel_valuation_demo_app
+   cd hotelvaluation
    ```
 
 2. Create and activate a virtual environment (recommended)
